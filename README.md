@@ -4,4 +4,4 @@ Welcome to the homepage of my INFOTC-1000 Module 9 Midterm submission. I hope yo
 
 There are a few pages included. Feel free to explore them!
 
-[a relative link](peaches.md)
+[a relative link](Peaches.md)
