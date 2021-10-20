@@ -4,10 +4,12 @@ Welcome to the homepage of my INFOTC-1000 Module 9 Midterm submission. I hope yo
 
 There are a few pages included. Feel free to explore them!
 
-Interested in learning more about my rabbit, [Peaches](Peaches.md)?
+***
 
-Or perhaps you might want to visit my page about my [typewriter collection](Typewriters.md)?
+* Interested in learning more about my rabbit, [Peaches](Peaches.md)?
 
-There is also a page about [birds](Birds.md)!
+* Or perhaps you might want to visit a page about my [typewriter collection](Typewriters.md)?
 
-And finally, there is a page with a few snippets of [code](Code.md).
+* There is also a page about [birds](Birds.md)!
+
+* And finally, there is a page with a few snippets of [code](Code.md).
