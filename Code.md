@@ -6,7 +6,8 @@
 
 Here is the solution to the FizzBuzz challenge from Module 7:
 
-'<!DOCTYPE html>
+'
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -40,4 +41,5 @@ Here is the solution to the FizzBuzz challenge from Module 7:
 	</div>
 </body>
 
-</html>'
+</html>
+'
