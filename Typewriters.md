@@ -30,6 +30,8 @@ My other favorite typewriter is the (Selectric) IBM Personal.
 
 ![IBM Selectric Personal](https://i.imgur.com/hhyNZ47.jpg)
 
+***
+
 [Back to top](#)
 
 [Return to homepage](README.md)
