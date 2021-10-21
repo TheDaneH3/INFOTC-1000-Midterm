@@ -61,3 +61,10 @@ final_vel = init_pos + (init_vel * elapsed_time) + (0.5 * acceleration * elapsed
 print("\nThe object's final position is: ", final_vel)
 print("\nPress Enter to exit")
 ```
+
+***
+
+
+[Back to top](#)
+
+[Return to homepage](README.md)
