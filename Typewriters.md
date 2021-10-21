@@ -2,6 +2,8 @@
 
 [Return to homepage](README.md)
 
+***
+
 My typewriter collection has grown *considerably* over the years. This page contains a list of my typewriters and a few images of my favorites.
 
 ***
