@@ -6,7 +6,7 @@
 
 Here is the solution to the FizzBuzz challenge from Module 7:
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
@@ -43,3 +43,7 @@ Here is the solution to the FizzBuzz challenge from Module 7:
 
 </html>
 ```
+
+***
+
+
