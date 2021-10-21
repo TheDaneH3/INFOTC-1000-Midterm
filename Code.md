@@ -9,12 +9,10 @@ Here is my solution to the FizzBuzz challenge from Module 7:
 ```html
 <!DOCTYPE html>
 <html>
-
 <head>
 	<meta charset="UTF-8">
 	<title>Fizz Buzz</title>
 	<script>
-
 		function fizzbuzz() {
 			var display = document.getElementById('display');
 			var displayHTML = "";
@@ -30,17 +28,12 @@ Here is my solution to the FizzBuzz challenge from Module 7:
 			}
 			display.innerHTML = displayHTML
 		}
-
 	</script>
-
 </head>
-
 <body onload="fizzbuzz()">
 	<div id="display">
-
 	</div>
 </body>
-
 </html>
 ```
 
