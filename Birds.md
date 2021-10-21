@@ -1,6 +1,6 @@
 ## Birds
 
-***[Bird are cool](https://en.wikipedia.org/wiki/Bird)***
+***[Birds are cool](https://en.wikipedia.org/wiki/Bird)***
 
 
 
