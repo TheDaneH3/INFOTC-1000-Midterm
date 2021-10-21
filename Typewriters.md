@@ -1,6 +1,6 @@
 ## My Typewriter Collection
 
-[Return to homepage](README.ml)
+[Return to homepage](README.md)
 
 My typewriter collection has grown *considerably* over the years. This page contains a list of my typewriters and a few images of my favorites.
 
@@ -30,4 +30,4 @@ My other favorite typewriter is the (Selectric) IBM Personal.
 
 [Back to top](#)
 
-[Return to homepage](README.ml)
+[Return to homepage](README.md)
